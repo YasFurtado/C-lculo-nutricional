@@ -1,2 +1,2 @@
 # C-lculo-nutricional
-Cálculos de imc, rqc e análise da medida da cintura 
+Cálculos de índice de massa corporal, relação cintura-quadril e medidas da cintura
